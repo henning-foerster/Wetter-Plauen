@@ -1,0 +1,10 @@
+{
+  "name":"Wetter Plauen Live",
+  "short_name":"Wetter Plauen",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#071426",
+  "theme_color":"#071426",
+  "description":"Aktuelles Wetter und Vorhersage für Plauen",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
